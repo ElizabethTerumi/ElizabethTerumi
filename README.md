@@ -6,10 +6,10 @@
 ---
 
 ### ✨ Sobre mim:
-💡 Apaixonada por tecnologia, aprendizado contínuo e soluções inovadoras.  
+💡 Desenvolvendo habilidades em tecnologias, aprendizado contínuo.  
 📚 Atualmente estudando **Java, Python e SQL**.  
 🎯 Buscando me aprofundar em **Análise de Dados** e **Desenvolvimento Backend**.  
-🚀 Sempre explorando novas tecnologias e desafios!  
+🚀Sempre aberta a novas tecnologias e desafios!" 
 
 ---
 
